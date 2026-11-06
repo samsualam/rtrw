@@ -1,0 +1,6 @@
+{
+  "name": "SITARU VISION — Sistem Informasi Zonasi RTRW & Perizinan",
+  "description": "Platform digital spasial interaktif RTRW, RDTR, dan verifikasi perizinan Kesesuaian Kegiatan Pemanfaatan Ruang (KKPR) dengan visualisasi 3D futuristik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
